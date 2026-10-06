@@ -1,4 +1,4 @@
-# Bem vindo disciplina de Disruptive Architectures: IA e IoT
+# CheckPoint 06
 
 Olá pessoal, bem vindos!! Neste repositório você irá encontrar os conteúdos ministrados em sala de aula assim como dicas, exemplos e laboratórios. 
 
